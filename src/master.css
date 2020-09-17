@@ -91,7 +91,7 @@ table{
     padding-top: 22px;
 }
 
-button{
+.button{
     border: none;
     height: 36px;
     width: 130px;
@@ -100,7 +100,7 @@ button{
     outline: none;
 }
 
-button:hover{
+.button:hover{
     color: #222;
     background: #f2f2f2;
     border: 1px solid  #2222;
