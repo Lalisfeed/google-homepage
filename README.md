@@ -28,4 +28,6 @@
   - Google Image Search
   - Google Advanced Search
   
+This Page is Deployed on [gh-pages](https://lalisfeed.github.io/google-homepage)
+  
 ### This project is taken from the [Curriculum](https://www.theodinproject.com/courses/web-development-101/lessons/html-css) in The Odin's Project
