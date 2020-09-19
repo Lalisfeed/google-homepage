@@ -1,8 +1,8 @@
-# Google Homepage by me
+# Google Homepage by me <p><img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Lalisfeed.google-homepage" /></p>
 
 ### This is the home-page view of [www.google.com](https://www.google.com)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/6ee14620-690b-42c6-80e6-13dc4c7d5ab6/deploy-status)](https://googlex.netlify.app)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6ee14620-690b-42c6-80e6-13dc4c7d5ab6/deploy-status)](https://googlex.netlify.app) 
 
 ## Using HTML5 and CSS3 this page is built
 
