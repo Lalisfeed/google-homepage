@@ -46,6 +46,7 @@ a:hover{
 .goog-cen img {
     width: 272px;
     height: 92px;
+    user-select: none;
 }
 
 .ser-wid{
