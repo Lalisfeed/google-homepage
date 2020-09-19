@@ -1,4 +1,4 @@
-# Google Homepage by me <p><img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Lalisfeed.google-homepage" /></p>
+# Google Homepage by me <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Lalisfeed.google-homepage" />
 
 ### This is the home-page view of [www.google.com](https://www.google.com)
 
