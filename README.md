@@ -1,4 +1,4 @@
-# Google Homepage by Lali Akhil Raj <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Lalisfeed.google-homepage" />
+# Google Homepage from Lalisfeed <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Lalisfeed.google-homepage" />
 
 ### This is the home-page view of [www.google.com](https://www.google.com)
 
