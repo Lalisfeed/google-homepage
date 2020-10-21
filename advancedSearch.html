@@ -5,21 +5,89 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Google Advanced Search</title>
-    <link rel="stylesheet" href="./src/index.css">
+    <link rel="stylesheet" href="./src/adsearch.css">
     <link rel="shortcut icon" href="./src/img/google-48.png" type="image/x-icon">
 </head>
 
 <body>
-    <header class="head">
-        <div class="goog-hea">
-            <div class="goog-ln">
+    <header>
+        <div class="tab">
+            <div class="tab-cell">
                 <a href="./imageSearch.html">Google Images</a>
             </div>
-            <div class="goog-ln">
+            <div class="tab-cell">
                 <a href="./index.html">Google Search</a>
             </div>
         </div>
     </header>
+    <section>
+        <div class="adsearch">
+            <p>Advanced Search</p>
+        </div>
+        <div class="hr"></div>
+        <form action="https://google.com/search" method="GET">
+        <div class="fom">
+            <div class="forme"> 
+                <div class="form-txt"> <!-- name head-->
+                    <p>Find pages with...</p>
+                </div>
+                <div class="form-set"><!-- form divs-->
+                    <div class="row-it">
+                        <div class="label-it">
+                            <p>all these words:</p>
+                        </div>
+                        <div class="inpit">
+                            <input type="text" name="as_q" autocomplete="off">
+                        </div>
+                    </div><!-- label and input-->
+                    <div class="row-it">
+                        <div class="label-it">
+                            <p>this exact word or phrase:</p>
+                        </div>
+                        <div class="inpit">
+                            <input type="text" name="as_epq" autocomplete="off">
+                        </div>
+                    </div><!-- label and input-->
+                    <div class="row-it">
+                        <div class="label-it">
+                            <p>any of these words:</p>
+                        </div>
+                        <div class="inpit">
+                            <input type="text" name="as_oq" autocomplete="off">
+                        </div>
+                    </div><!-- label and input-->
+                    <div class="row-it">
+                        <div class="label-it">
+                            <p>numbers ranging from:</p>
+                        </div>
+                        <div class="inpit">
+                            <input type="text" name="as_eq" autocomplete="off">
+                        </div>
+                    </div><!-- label and input-->
+                    <div class="row-it">
+                        <div class="label-it">
+                            <p>all these words:</p>
+                        </div>
+                        <div  class="row-it">
+                            <div  class="inpit-last">
+                            <input type="text" name="as_nlo" autocomplete="off">
+                            </div>
+                            <div class="to">
+                                <p>to</p>
+                            </div>
+                            <div  class="inpit-last">
+                            <input type="text" name="as_nhi" autocomplete="off">
+                            </div>
+                        </div>
+                    </div><!-- label and input-->
+                </div>
+            </div>
+        </div>
+        <div class="buten">
+        <input type="submit" value="Advanced Search" class="button">
+        </form>
+        </div>
+    </section>
     <footer class="foot">
         <p>Lali Akhil Raj, IIT (BHU), India</p>
     </footer>
